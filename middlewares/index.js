@@ -9,5 +9,5 @@ module.exports = {
     ...validaCampos,
     ...validarJWT,
     ...validaRoles,
-    ...validarArchivo
+    ...validarArchivo 
 }
